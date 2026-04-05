@@ -1,0 +1,33 @@
+# Excel Sales Analysis using Pivot Tables & VLOOKUP
+
+##  Project Overview
+This project is a hands-on Excel data analysis exercise using a self-created dataset to simulate real-world sales scenarios.
+
+## 📁 Dataset
+The dataset was designed independently and includes:
+- Order details  
+- Product and category information  
+- Region-wise sales data  
+- Pricing and customer details  
+
+##  Tasks Performed
+- Created calculated column for **Total Sales (Quantity × Price)**  
+- Applied **VLOOKUP** to map product categories  
+- Used **Filters** for focused analysis  
+- Built **Pivot Tables** to summarize data  
+- Created **charts** for visualization     
+
+ Conclusion
+This project demonstrates practical experience in Excel data analysis, including data cleaning, transformation, and visualization.
+
+
+### Pivot Table & Chart
+<img width="1914" height="1020" alt="table" src="https://github.com/user-attachments/assets/ed1a0201-dd48-4b4f-9d4b-d958287f077f" />
+<img width="1920" height="1020" alt="Screenshot 2026-04-03 191211" src="https://github.com/user-attachments/assets/a9f8647c-09c4-43d6-b127-c7f593ad505d" />
+
+
+
+
+     
+
+``
