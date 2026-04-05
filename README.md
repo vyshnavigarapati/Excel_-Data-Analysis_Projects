@@ -22,8 +22,9 @@ This project demonstrates practical experience in Excel data analysis, including
 
 
 ### Pivot Table & Chart
-<img width="1914" height="1020" alt="table" src="https://github.com/user-attachments/assets/ed1a0201-dd48-4b4f-9d4b-d958287f077f" />
-<img width="1920" height="1020" alt="Screenshot 2026-04-03 191211" src="https://github.com/user-attachments/assets/a9f8647c-09c4-43d6-b127-c7f593ad505d" />
+<img width="1907" height="1020" alt="Pivot_table" src="https://github.com/user-attachments/assets/cb82cd66-166d-458a-86bf-351c37256f55" />
+<img width="1920" height="1020" alt="Screenshot 2026-04-03 191211" src="https://github.com/user-attachments/assets/12f4f7a4-d9fb-4154-a741-f8142a5f440d" />
+
 
 
 
