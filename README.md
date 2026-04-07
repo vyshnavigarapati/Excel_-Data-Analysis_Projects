@@ -20,14 +20,16 @@ Each day focuses on different Excel concepts including data cleaning, pivot tabl
 - Cleaned dataset
 - Basic analysis
 
-###  Upcoming Days
-- Day 3 - VLOOKUP / XLOOKUP
-- Day 4 - Advanced Excel
-- Day 5 - Dashboard Enhancement
-- Day 6 - Real-world dataset
-- Day 7 - Final Project
+###  ✅ Day 3 - Excel Dashboard
+Created Total Sales column
+Used VLOOKUP & XLOOKUP
+Created Pivot Tables
+Built charts:
+Monthly trend
+Product-wise sales
+Added Slicers (Month, Region, Category)
+Created Sales Dashboard
 
----
 
 ##  Tools Used
 - Microsoft Excel
