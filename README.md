@@ -21,14 +21,13 @@ Each day focuses on different Excel concepts including data cleaning, pivot tabl
 - Basic analysis
 
 ###  ✅ Day 3 - Excel Dashboard
-Created Total Sales column
-Used VLOOKUP & XLOOKUP
-Created Pivot Tables
-Built charts:
-Monthly trend
-Product-wise sales
-Added Slicers (Month, Region, Category)
-Created Sales Dashboard
+- Created Total Sales column
+- Used VLOOKUP & XLOOKUP
+- Created Pivot Tables
+- Built charts:
+- Monthly trend
+- Product-wise sales
+- Added Slicers (Month, Region, Category)
 
 
 ##  Tools Used
